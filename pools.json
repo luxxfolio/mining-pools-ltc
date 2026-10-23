@@ -782,5 +782,12 @@
     "addresses": [],
     "tags": ["/mkpool.com/"],
     "link": "https://mkpool.com/"
+  },
+  {
+    "id": 111,
+    "name": "LuxxPool",
+    "addresses": [],
+    "tags": ["/LuxxPool/", "LuxxPool", "luxxpool"],
+    "link": "https://luxxpool.luxxlabs.ca"
   }
 ]
